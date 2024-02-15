@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: rgb(156, 6, 6);
+    color: white;
+}
+
+#meuCanvas{
+    border-color: #ffd700;
+    border-style: ridge;
+    background-color: white;
+    border-width: 25px;
+}
